@@ -1,2 +1,2 @@
 # SEO-audit
-SEO audit is done and recommendations are provided
+SEO audit for the website is done and recommendations are provided
